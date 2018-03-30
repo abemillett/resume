@@ -19,8 +19,8 @@
         "dates": "2016-present",
         "employer": "Freelance (clients, contract work)"
       }
-    }
-  ],
+    ]
+  },
   "skills": [
     ["HTML", "CSS", "Javascript", "NodeJS", "PHP", "MySQL"],
     ["VueJS", "JQuery", "WordPress", "Processwire"],
