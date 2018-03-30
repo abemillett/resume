@@ -5,22 +5,25 @@
     "phone": "8604588047",
     "address": "938 Stafford Rd, Mansfield CT"
   },
-  "history": {
-    "Web Developer/Designer": [
-      {
-        "dates": "2011-2014",
-        "employer": "University of Connecticut eCampus"
-      },
-      {
-        "dates": "2014-2016",
-        "employer": "CASE Partners"
-      },
-      {
-        "dates": "2016-present",
-        "employer": "Freelance (clients, contract work)"
-      }
-    ]
-  },
+  "history": [
+    {
+      "title": "Web Developer/Designer",
+      "employers": [
+        {
+          "dates": "2011-2014",
+          "employer": "University of Connecticut eCampus"
+        },
+        {
+          "dates": "2014-2016",
+          "employer": "CASE Partners"
+        },
+        {
+          "dates": "2016-present",
+          "employer": "Freelance (clients, contract work)"
+        }
+      ]
+    }
+  ],
   "skills": [
     ["HTML", "CSS", "Javascript", "NodeJS", "PHP", "MySQL"],
     ["VueJS", "JQuery", "WordPress", "Processwire"],
