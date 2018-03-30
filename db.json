@@ -6,7 +6,7 @@
     "address": "938 Stafford Rd, Mansfield CT"
   },
   "history": {
-    "Web Developer/Designer": {
+    "Web Developer/Designer": [
       {
         "dates": "2011-2014",
         "employer": "University of Connecticut eCampus"
@@ -20,16 +20,16 @@
         "employer": "Freelance (clients, contract work)"
       }
     }
-  },
-  "skills": {
-    {"HTML", "CSS", "Javascript", "NodeJS", "PHP", "MySQL"},
-    {"VueJS", "JQuery", "WordPress", "Processwire"},
-    {"Git", "Vim", "Tmux"}
-  },
-  "philosophies": {
+  ],
+  "skills": [
+    ["HTML", "CSS", "Javascript", "NodeJS", "PHP", "MySQL"],
+    ["VueJS", "JQuery", "WordPress", "Processwire"],
+    ["Git", "Vim", "Tmux"]
+  ],
+  "philosophies": [
     "All tools should have one job and do it well",
     "Modularity is the key to happiness",
     "Build for humans"
-  },
+  ],
   "bio": "A primary focus of my life is to continually learn. My childhood of reading, violin lessons, and outdoor exploration gave me a sense of curiosity that has driven my professional growth. My career as a web developer began when a senior coworker took an extended leave of absence, leaving no one in charge of the websites and intranet. Curiosity dictated that I take the job. The challenge and on-the-job training was so addictive that I have sought it out ever since."
 }
